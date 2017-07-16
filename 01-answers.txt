@@ -1,0 +1,13 @@
+Here are the five gems:
+
+ActiveModel: It seems this gem allows any class to be used with ActiveRecord.
+
+ActiveRecord: Allows rails to talk with SQL using Object Relational Mapping. it 
+uses a ruby object to map to a DB table. columns are accessed by methods. It also
+provides CRUD. It uses a DSL for making SQL queries.
+
+ActiveSupport: Provides Ruby clean syntax to all classes.
+
+ActionPack: controls the controller and the view. However I do not understand how.
+
+ActionMailer: allows you to email from your app.
